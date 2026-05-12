@@ -21,7 +21,7 @@ Map of every bundled doc grouped by category. Read the specific files relevant t
 - `Arguments Masterclass/Greedy-Arguments.mdx` — `@Greedy` for trailing strings.
 - `Arguments Masterclass/Compound-Arguments.mdx` — multi-token compound parameters.
 - `Arguments Masterclass/Context-Arguments.mdx` — inject `Context`/`Source` directly.
-- `Arguments Masterclass/Custom-Arguments.mdx` — custom `ParameterType` resolvers.
+- `Arguments Masterclass/Custom-Arguments.mdx` — custom `ArgumentType` resolvers.
 - `Arguments Masterclass/Validators.mdx` — argument validation hooks.
 - `Arguments Masterclass/Suggestions.mdx` — tab-completion suppliers.
 
